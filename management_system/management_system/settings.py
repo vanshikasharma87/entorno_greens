@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'farmer_app',
     'dealer_app',
     'employee_app',
-    'active_link',
+    # 'active_link',
     'authentication_app',
 ]
 
